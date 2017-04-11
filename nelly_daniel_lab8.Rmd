@@ -1,0 +1,22 @@
+---
+title: "nelly_daniel_lab8"
+author: "N. D."
+output: html_document
+---
+
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+
+## Practice: Git/GitHub with RStudio
+
+My first commit to GitHub!
+
+
+
